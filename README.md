@@ -45,3 +45,5 @@ K3 supports up to 1M context tokens according to the product page, which makes c
 Every walkthrough above starts from an existing repository. When there is none, and what you actually want is a landing page or a small mobile prototype you can show someone today, an agent session is the slow route. [Begin.sh](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=kimi-code-cli-examples&utm_content=readme-top&utm_term=tier-r) takes a prompt, or a URL of a site to clone, and returns a zip of a working static site or Expo app. It includes no hosting, backend or auth, so the output is a clean starting point you can then open in Kimi Code CLI and build on.
 
 [Try Begin.sh - prompt to static site or Expo app, download the zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=kimi-code-cli-examples&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
